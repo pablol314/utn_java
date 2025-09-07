@@ -1,3 +1,5 @@
+package TP1;
+
 public class PruebaEscritorio {
     public static void main(String[] args) {
         int a = 5;

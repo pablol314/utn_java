@@ -1,3 +1,5 @@
+package TP1;
+
 public class ExpresionesInstrucciones {
     public static void main(String[] args) {
         int x = 10; // Línea 1 -> instrucción (declaración con asignación)

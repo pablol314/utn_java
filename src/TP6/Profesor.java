@@ -1,4 +1,4 @@
-package ar.utn.programacion2;
+package TP6;
 
 import java.util.ArrayList;
 import java.util.List;

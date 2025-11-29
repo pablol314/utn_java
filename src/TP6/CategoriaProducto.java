@@ -1,4 +1,4 @@
-package ar.utn.programacion2;
+package TP6;
 
 /**
  * Categorías disponibles para los productos del inventario.
